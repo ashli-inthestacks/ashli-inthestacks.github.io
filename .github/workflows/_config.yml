@@ -23,8 +23,7 @@ email: ash_aar@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   An ePortfolio for Ashli Aaron as part of their MI in Library Information Science (with a concentration in Archives) at Rutgers University. Expected graduation date: January 2027.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/ashli-inthestacks/ashli-inthestacks.github.io.git" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "https://ashli-inthestacks.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ashli-inthestacks
 
 # Build settings
@@ -41,9 +40,6 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 # exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules/
